@@ -3,6 +3,7 @@ def super_function():
     print("ха ха ха")
     print('отстань')
     print('получил')
+    print('из гитхаба')
 
 
 def main():

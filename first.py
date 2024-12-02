@@ -1,6 +1,7 @@
 def super_function():
     # я наумов
     print("ха ха ха")
+    print('отстань')
 
 
 def main():

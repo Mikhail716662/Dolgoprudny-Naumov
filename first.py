@@ -3,6 +3,7 @@ def main():
     print('And I change it every day')
     # изменил очень в. комент
     print('Again')
+    print('не понял, повторите')
     print('UFO came and added this line')
 
 

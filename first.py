@@ -1,6 +1,6 @@
 def super_function():
     # я наумов
-    print()
+    print("ха ха ха")
 
 
 def main():
